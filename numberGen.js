@@ -6,4 +6,5 @@ console.log(featurec);
 
 function featc() {
   return featurec;
+  console.log("function c added");
 }
