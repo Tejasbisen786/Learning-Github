@@ -1,6 +1,9 @@
+const rand = parseInt(Math.random() * 100);
+console.log(rand);
 
-const rand=  parseInt(Math.random()*100)
-console.log( rand);
-
-const featurec= "featurec added"
+const featurec = "featurec added";
 console.log(featurec);
+
+function featc() {
+  return featurec;
+}
