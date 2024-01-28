@@ -1,0 +1,2 @@
+To update the code in local from repo that we wanted to contribute:
+1) git pull upstream main
